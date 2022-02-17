@@ -6,3 +6,4 @@ Sharing information feels good.
 I like to teach people.
 Git is a good tool.
 Changes on local.
+Some second changes.
